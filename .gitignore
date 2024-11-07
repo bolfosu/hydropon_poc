@@ -20,9 +20,6 @@ bld/
 # JetBrains Rider
 .idea/
 
-# Visual Studio
-.vs/
-
 # User-specific files
 *.vspscc
 *.vssscc
@@ -33,8 +30,6 @@ bld/
 *.dll
 
 # Other common files
-*.suo
-*.user
 *.tmp
 *.bak
 *.orig
@@ -45,3 +40,8 @@ bld/
 
 # Log files
 *.log
+
+# Platform-specific files (adjust as needed)
+bin/
+obj/
+packages/
