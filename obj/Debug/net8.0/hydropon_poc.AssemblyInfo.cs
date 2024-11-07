@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hydropon_poc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce97faf2f65042dcc4d1d4d8ac6cf28d262f8c33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d28c81a587832ec6166ba9df534a03c328af19f")]
 [assembly: System.Reflection.AssemblyProductAttribute("hydropon_poc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hydropon_poc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
