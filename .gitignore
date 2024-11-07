@@ -1,0 +1,46 @@
+# Visual Studio caches and local settings
+*.suo
+*.user
+*.sln.docstates
+
+# Build output
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio
+.vs/
+
+# User-specific files
+*.vspscc
+*.vssscc
+
+# Build artifacts and output
+*.pdb
+*.exe
+*.dll
+
+# Other common files
+*.suo
+*.user
+*.tmp
+*.bak
+*.orig
+*.old
+*.rar
+*.zip
+*.tar.gz
+
+# Log files
+*.log
